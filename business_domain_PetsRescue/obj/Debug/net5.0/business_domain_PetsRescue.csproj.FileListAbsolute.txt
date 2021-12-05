@@ -1,0 +1,15 @@
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\business_domain_PetsRescue.deps.json
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\business_domain_PetsRescue.runtimeconfig.json
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\business_domain_PetsRescue.runtimeconfig.dev.json
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\business_domain_PetsRescue.dll
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\ref\business_domain_PetsRescue.dll
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\bin\Debug\net5.0\business_domain_PetsRescue.pdb
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.AssemblyInfoInputs.cache
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.AssemblyInfo.cs
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.csproj.CoreCompileInputs.cache
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.dll
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\ref\business_domain_PetsRescue.dll
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.pdb
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.genruntimeconfig.cache
+D:\Alonso\ESAN\4 CICLO\Desarrollo Web\ProyectoFinal\PetsRecue_ProyectoFinal_API\business_api_PetsRescue\business_domain_PetsRescue\obj\Debug\net5.0\business_domain_PetsRescue.csproj.AssemblyReference.cache

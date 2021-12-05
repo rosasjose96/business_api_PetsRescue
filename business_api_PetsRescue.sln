@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "business_api_PetsRescue", "business_api_PetsRescue\business_api_PetsRescue.csproj", "{2C3C6BC6-4311-4896-9EE0-D61BD1FDEB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "business_domain_PetsRescue", "business_domain_PetsRescue\business_domain_PetsRescue.csproj", "{2CCF589C-D482-4879-AB9D-91E34DEA1AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3C6BC6-4311-4896-9EE0-D61BD1FDEB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3C6BC6-4311-4896-9EE0-D61BD1FDEB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3C6BC6-4311-4896-9EE0-D61BD1FDEB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3C6BC6-4311-4896-9EE0-D61BD1FDEB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCF589C-D482-4879-AB9D-91E34DEA1AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCF589C-D482-4879-AB9D-91E34DEA1AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCF589C-D482-4879-AB9D-91E34DEA1AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCF589C-D482-4879-AB9D-91E34DEA1AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22EDD32-9801-4AF4-8DE1-E94648F9DC2F}
+	EndGlobalSection
+EndGlobal
